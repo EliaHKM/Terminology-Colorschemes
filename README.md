@@ -2,21 +2,21 @@
 Collections of Terminology colorschemes
 <br/>
 <br/>
--Catpuccin-mocha
+<li>Catpuccin-mocha</li>
 <br/>
-<img src="https://github.com/EliaHKM/Terminology-Colorschemes/blob/main/Catppuccin.jpg">
+<img src="https://github.com/EliaHKM/Terminology-Colorschemes/blob/main/screenshots/Catppuccin.jpg">
 <br/>
--GruvboxDark
+<li>GruvboxDark</li>
 <br/>
-<img src="https://github.com/EliaHKM/Terminology-Colorschemes/blob/main/Gruvbox.jpg">
+<img src="https://github.com/EliaHKM/Terminology-Colorschemes/blob/main/screenshots/Gruvbox.jpg">
 <br/>
--SweetDark 
+<li>SweetDark </li>
 <br/>
-<img src="https://github.com/EliaHKM/Terminology-Colorschemes/blob/main/sweetdark.jpg"> 
+<img src="https://github.com/EliaHKM/Terminology-Colorschemes/blob/main/screenshots/sweetdark.jpg"> 
 <br/>
--Tokyonight
+<li>Tokyonight</li>
 <br/>
-<img src="https://github.com/EliaHKM/Terminology-Colorschemes/blob/main/Tokyonight.jpg">
+<img src="https://github.com/EliaHKM/Terminology-Colorschemes/blob/main/screenshots/Tokyonight.jpg">
 <br/>
 <br/>
 # Installation:
